@@ -4,7 +4,7 @@ Programmer analyst, gamer, Linux enthusiast, space lover and curious, very curio
 
 Skills: PHP / JS / GO / Linux
 
-- 🔭 I’m currently working on [Picpay](https://github.com/PicPay/) 
+- 🔭 I’m currently working on [Frete.com](https://frete.com/) 
 - 🌱 I’m currently learning GO 
 - 😄 Pronouns: He/him/his 
 - 📚 Exercism: [My Profile](https://exercism.org/profiles/vanildosouto)
